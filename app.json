@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "10865fe8-5aa3-4837-82cf-9280df2444f1"
+      }
+    },
+    "owner": "eloike"
   }
 }
