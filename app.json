@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/splash.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.eloike.compass"
     },
     "web": {
       "favicon": "./assets/favicon.png"
